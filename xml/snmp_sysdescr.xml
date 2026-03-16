@@ -654,6 +654,30 @@
     <example os.product="1769-L3xE">Rockwell Automation 1769-L3xE</example>
     <example os.product="1769-LxxE">Rockwell Automation 1769-LxxE</example>
     <example os.product="1788-ENBT">Rockwell Automation 1788-ENBT</example>
+    <example os.product="1769-L16ER-BB1B">Rockwell Automation 1769-L16ER-BB1B</example>
+    <example os.product="1769-L18ER-BB1B">Rockwell Automation 1769-L18ER-BB1B</example>
+    <example os.product="1769-L24ER-QB1B">Rockwell Automation 1769-L24ER-QB1B</example>
+    <example os.product="1769-L30ER">Rockwell Automation 1769-L30ER</example>
+    <example os.product="1769-L33ER">Rockwell Automation 1769-L33ER</example>
+    <example os.product="1769-L36ERM">Rockwell Automation 1769-L36ERM</example>
+    <example os.product="1756-L71">Rockwell Automation 1756-L71</example>
+    <example os.product="1756-L72">Rockwell Automation 1756-L72</example>
+    <example os.product="1756-L73">Rockwell Automation 1756-L73</example>
+    <example os.product="1756-L74">Rockwell Automation 1756-L74</example>
+    <example os.product="1756-L75">Rockwell Automation 1756-L75</example>
+    <example os.product="5069-L306ER">Rockwell Automation 5069-L306ER</example>
+    <example os.product="5069-L310ER">Rockwell Automation 5069-L310ER</example>
+    <example os.product="5069-L320ER">Rockwell Automation 5069-L320ER</example>
+    <example os.product="5069-L330ER">Rockwell Automation 5069-L330ER</example>
+    <example os.product="5069-L340ER">Rockwell Automation 5069-L340ER</example>
+    <example os.product="1756-L81E">Rockwell Automation 1756-L81E</example>
+    <example os.product="1756-L82E">Rockwell Automation 1756-L82E</example>
+    <example os.product="1756-L83E">Rockwell Automation 1756-L83E</example>
+    <example os.product="1756-L84E">Rockwell Automation 1756-L84E</example>
+    <example os.product="1756-L85E">Rockwell Automation 1756-L85E</example>
+    <example os.product="1756-L73S">Rockwell Automation 1756-L73S</example>
+    <example os.product="1769-L30ERS2">Rockwell Automation 1769-L30ERS2</example>
+    <example os.product="5069-L306ERS2">Rockwell Automation 5069-L306ERS2</example>
     <param pos="0" name="os.device" value="PLC"/>
     <param pos="0" name="os.vendor" value="Rockwell Automation"/>
     <param pos="0" name="os.family" value="PLC"/>
